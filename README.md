@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Amendahawi
-- 👀 I’m interested in artificial intelligence and machine learning.
-- 🌱 I’m currently learning Java, Python, HTML, and CSS.
+- 👋 Hi, I’m Abdul
+- 👀 I’m interested in data science, AI/ML.
+- 🌱 I’m currently learning Java and Python
