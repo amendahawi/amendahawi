@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Abdul
-- 👀 I’m interested in data science, AI/ML.
-- 🌱 I’m currently learning Java and Python
+How many programmers does it take to change a light bulb?
+None, that’s a hardware problem.
