@@ -1,1 +1,1 @@
-Student at Redmond High School
+Student at New York University
