@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <h1>
-    Abdul's GitHub 🙌
-  </h1>
-  <img src="https://media.giphy.com/media/0RqeZFhf6yyBdX6r91/giphy.gif" width="500"/>
+  <p>Abdul Mendahawi</p>
+  <p>am13948@nyu.edu</p>
+  <a href="https://amendahawi.github.io/amendahawi-directory/">Abdul's Directory</a>
 </div>
